@@ -3,13 +3,13 @@
 
 1. Write a vi to simulate a function generator with a scope showing the waveform. The VI has two knobs controlling the frequency (within a decade) and amplitude (0~10V) of the waveform generated, a switch determine the frequency is in 10,100,1k, 10k, 100k, 1M, 10M range, and another switch to control showing triangular, squared, and sine waveform. Showing the output waveform with a "waveform graph" and showing 10 cycles on the plot at most. Showing your horizontal axis with correct time value corresponding unit of sec, millisecond, microsecond, or nanosecond according to the frequency user chosen.
 
-1.  
+1.so  
   1. Based on the P.23 slide of 3-2, draw a projection of a terrestrial globe with meridian and parallel lines per 10 degrees.
   2. Redraw the projection considering earth axis is tilted by 23.4 degree.
 
 1. Write a VI to simulate the traffic light for pedestrians which has an count down timer display showing a two digit remaining time, and an 16x16 LED panel display showing an animation of little green guy (小綠人). (hint: Use a 3d boolean array constant to store the animation data.)
 
-  *. The VI has a numerical control to set the final count down period. In the beginning of count down, the LED panel shows animation of the little green guy walking. When the remaining time is less then 10 seconds, the LED panel shows animation of the little green guy running.
+  * The VI has a numerical control to set the final count down period. In the beginning of count down, the LED panel shows animation of the little green guy walking. When the remaining time is less then 10 seconds, the LED panel shows animation of the little green guy running.
 
 1.Insertion sorting is one by one remove the element from the original array and insert it into the proper location which is larger than the previous value and smaller than next value in the array.  
    For sorting the array 52314.  
