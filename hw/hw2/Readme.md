@@ -22,7 +22,7 @@
    
    Generate 1024 0~10000 random values and put into a 1D array. Visualize the insertion sorting process with waveform graph and slightly delay.
 
-5. N Queen problem can be describe as: Place N queens on an (N by N) chess board such that none of the queens attacks any of the others. Find all possible solutions of 8 queens on an 8x8 chess board. Draw all solutions on a 3-dimension LED boo lean array indicator. 
+5. N Queen problem can be describe as: Place N queens on an (N by N) chess board such that none of the queens attacks any of the others. Find all possible solutions of 8 queens on an 8x8 chess board. Draw all solutions on a 3-dimension LED boo lean array indicator.  
    Reference: http://www.aiai.ed.ac.uk/~gwickler/eightqueens.html 
 
 ## Known Bugs
