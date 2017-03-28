@@ -1,5 +1,6 @@
 # HW2
 ## Spec.
+
 1. Write a vi to simulate a function generator with a scope showing the waveform. The VI has two knobs controlling the frequency (within a decade) and amplitude (0~10V) of the waveform generated, a switch determine the frequency is in 10,100,1k, 10k, 100k, 1M, 10M range, and another switch to control showing triangular, squared, and sine waveform. Showing the output waveform with a "waveform graph" and showing 10 cycles on the plot at most. Showing your horizontal axis with correct time value corresponding unit of sec, millisecond, microsecond, or nanosecond according to the frequency user chosen.
 
 1.  
