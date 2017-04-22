@@ -1,4 +1,4 @@
-# HW2
+# HW3
 ## Spec.
 
 1. Bubble sorting compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed
