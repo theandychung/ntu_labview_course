@@ -3,20 +3,20 @@
 
 1. Bubble sorting compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed
 
-   For sorting the array 51428.
-   First Pass
-   ( 5 1 4 2 8 )->( 1 5 4 2 8 ), 5>1, swap
-   ( 1 5 4 2 8 )->( 1 4 5 2 8 ), 5>4, swap
-   ( 1 4 5 2 8 )->( 1 4 2 5 8 ), 5>2, swap
-   ( 1 4 2 5 8 )->( 1 4 2 5 8 ), 5<8, no swap
-   Second Pass
-   ( 1 4 2 5 8 )->( 1 4 2 5 8 ), 1<4, no swap
-   ( 1 4 2 5 8 )->( 1 2 4 5 8 ), 4>2, swap
-   ( 1 2 4 5 8 )->( 1 2 4 5 8 ), 4<5, no swap
-   Third Pass
-   ( 1 4 2 5 8 )->( 1 4 2 5 8 ), 1<4, no swap
-   ( 1 2 4 5 8 )->( 1 2 4 5 8 ), 2>4, no swap
-   
+   For sorting the array 51428.   
+   First Pass   
+   ( 5 1 4 2 8 )->( 1 5 4 2 8 ), 5>1, swap   
+   ( 1 5 4 2 8 )->( 1 4 5 2 8 ), 5>4, swap   
+   ( 1 4 5 2 8 )->( 1 4 2 5 8 ), 5>2, swap   
+   ( 1 4 2 5 8 )->( 1 4 2 5 8 ), 5<8, no swap   
+   Second Pass   
+   ( 1 4 2 5 8 )->( 1 4 2 5 8 ), 1<4, no swap   
+   ( 1 4 2 5 8 )->( 1 2 4 5 8 ), 4>2, swap   
+   ( 1 2 4 5 8 )->( 1 2 4 5 8 ), 4<5, no swap   
+   Third Pass   
+   ( 1 4 2 5 8 )->( 1 4 2 5 8 ), 1<4, no swap  
+   ( 1 2 4 5 8 )->( 1 2 4 5 8 ), 2>4, no swap   
+    
    Please Generate 1024 0~10000 random values and put them into a 1D array. Visualize the sorting process on a waveform graph with a slightly delay.
 
 2. Sorts by making only one exchange for every list pass through. On every pass through, the selection sort searches for the largest number and places it at its location ( first or last, depending)
