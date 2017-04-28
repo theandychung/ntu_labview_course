@@ -44,6 +44,7 @@
 
 2. Write a BechmarkSorting.vi to benchmark the performance of bubble, selection, and insertion sorting.   
    The vi will generate 1024 0~10000 random values first and feed the same dataset to the three sorting algorithm.   
-   Show the time required to finish sorting with the 3 different sorting methods individually. (Note: please remove all wait function inside the loops when sorting) 
+   Show the time required to finish sorting with the 3 different sorting methods individually.   
+   (Note: please remove all wait function inside the loops when sorting) 
 
 ## Unfinished Works
