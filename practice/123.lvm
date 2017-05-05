@@ -1,0 +1,68 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Absolute
+Operator	andy
+Date	2017/05/02
+Time	11:43:01.388622283935546875
+***End_of_Header***	
+	
+Channels	2		
+Samples	1	1	
+Date	2017/05/02	2017/05/02	
+Time	11:43:01.388622283935546875	11:43:01.388622283935546875	
+X_Dimension	Time	Time	
+X0	0.0000000000000000E+0	0.0000000000000000E+0	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	0.000000	0.286044
+
+Channels	2		
+Samples	1	1	
+Date	2017/05/02	2017/05/02	
+Time	11:43:01.4098539352416992188	11:43:01.4098539352416992188	
+X_Dimension	Time	Time	
+X0	2.1231651306152344E-2	2.1231651306152344E-2	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	1.000000	0.791716
+
+Channels	2		
+Samples	1	1	
+Date	2017/05/02	2017/05/02	
+Time	11:43:01.4168705940246582031	11:43:01.4168705940246582031	
+X_Dimension	Time	Time	
+X0	2.8248310089111328E-2	2.8248310089111328E-2	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	2.000000	0.609015
+
+Channels	2		
+Samples	1	1	
+Date	2017/05/02	2017/05/02	
+Time	11:43:01.4229025840759277344	11:43:01.4238710403442382813	
+X_Dimension	Time	Time	
+X0	3.4280300140380859E-2	3.5248756408691406E-2	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	3.000000	0.829016
+
+Channels	2		
+Samples	1	1	
+Date	2017/05/02	2017/05/02	
+Time	11:43:01.430889129638671875	11:43:01.430889129638671875	
+X_Dimension	Time	Time	
+X0	4.2266845703125000E-2	4.2266845703125000E-2	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	4.000000	0.439994
+
