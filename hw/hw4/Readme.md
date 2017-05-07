@@ -20,7 +20,7 @@ The fields of interest are explained with the example
 
    Apr 26 21:38:10 filterlog: 105,16777216,,1425041627,hn1,match,block,in,4,0x2,0,109,9812,0,DF,6,tcp,48,207.46.13.171,10.2.10.15,25309,80,0,SEC,27892632,,8192,,mss;nop;nop;sackOK   
 
-   Apr 26 21:38:10 : The date and time for the packet to be logged.
+   Apr 26 21:38:10 : The date and time for the packet to be logged.   
 hn1 : The interface of the firewall being logged. The field is always in the form of hnx, and x denotes the x-th network interface of the firewall.   
 block : The packet is being rejected passing through the firewall. If the field is pass, then packet is being granted passing through the firewall.   
 tcp : The internet protocol. Possible values includes tcp and udp for this field.   
