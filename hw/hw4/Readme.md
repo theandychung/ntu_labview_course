@@ -1,4 +1,4 @@
-# HW3
+# HW4
 ## Spec.
 
 1. Design a VI to predict the trajectory of a cannonball out of a canon on the ground. Draw a horizontal ground surface in the front panel with decoration elements. With four numerical controls, the initial velocity, initial angle, percentage of energy loss when the ball hit the ground, and the percentage threshold of energy remained for the cannonball not bouncing again, try to draw the trajectory of the cannonball with a LED in the front panel and update the coordinate with property nodes. Please consider gravity but ignore the air drag effect.   
@@ -36,4 +36,4 @@ Use regex to match above mentioned fields of interest in each loop (line). Outpu
 Date-time Interface-name Protocol Source-ip Source-port Target-ip Target-port Length Pass-or-block   
  
 
-## Unfinished Works
+## Futrue Works

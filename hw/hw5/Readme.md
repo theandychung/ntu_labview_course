@@ -1,6 +1,4 @@
-# HW3
-## Spec.
-# HW3
+# HW5
 ## Spec.
 
 1. Please finish the on class example with state machine style VI to process a Boolean button cluster with “login”, “configure data acquisition”, and “data acquisition” buttons. Modify the VI to have the following extra functions.   
@@ -14,4 +12,4 @@
    1. Please write the program using single while loop architecture with multiple case to process multiple keys.
    2. Please write the program using “state machine” architecture. (a separate VI)
 
-## Unfinished Works
+## Futrue Works

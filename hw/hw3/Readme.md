@@ -47,4 +47,4 @@
    Show the time required to finish sorting with the 3 different sorting methods individually.   
    (Note: please remove all wait function inside the loops when sorting) 
 
-## Unfinished Works
+## Futrue Works

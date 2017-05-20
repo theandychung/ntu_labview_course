@@ -6,7 +6,7 @@
 4. Show second waveform chart for the running average temperatures in past 5 loops. Show the average values, the maximum and minimum values of all past temperature values on the front panel and on the waveform chart with multiple-plot as well. Please do not use the built-in mean and max-min function node and implement the function by yourself.
 * Please archive all your files into a "zip" file and upload to the homework section  
 
-## Unfinished Works
+## Futrue Works
 When user change from Celsius to Fahrenheit, the last four Celscius temperatures are not converted and causing:
 * Inaccurate average
 * min and max values
