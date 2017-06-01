@@ -13,3 +13,5 @@
    2. Please write the program using “state machine” architecture. (a separate VI)
 
 ## Futrue Works
+1. crash if user press "data acquisition" without closing "configuration window"
+2. current value adding '.'
