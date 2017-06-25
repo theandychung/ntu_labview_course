@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="14008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -16,11 +17,12 @@
 		<Item Name="subvi" Type="Folder">
 			<Item Name="move.vi" Type="VI" URL="../move.vi"/>
 			<Item Name="NewPosIndex.vi" Type="VI" URL="../NewPosIndex.vi"/>
+			<Item Name="conversion.vi" Type="VI" URL="../conversion.vi"/>
 		</Item>
 		<Item Name="typedef" Type="Folder">
 			<Item Name="states.ctl" Type="VI" URL="../states.ctl"/>
+			<Item Name="RingArray.ctl" Type="VI" URL="../RingArray.ctl"/>
 		</Item>
-		<Item Name="conversion.vi" Type="VI" URL="../conversion.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
