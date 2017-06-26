@@ -15,9 +15,10 @@
 			<Item Name="key.vi" Type="VI" URL="../key.vi"/>
 		</Item>
 		<Item Name="subvi" Type="Folder">
-			<Item Name="move.vi" Type="VI" URL="../move.vi"/>
 			<Item Name="NewPosIndex.vi" Type="VI" URL="../NewPosIndex.vi"/>
-			<Item Name="conversion.vi" Type="VI" URL="../conversion.vi"/>
+			<Item Name="FoodGen.vi" Type="VI" URL="../FoodGen.vi"/>
+			<Item Name="FoodCountDown.vi" Type="VI" URL="../FoodCountDown.vi"/>
+			<Item Name="SnakeNextPosIndex.vi" Type="VI" URL="../SnakeNextPosIndex.vi"/>
 		</Item>
 		<Item Name="typedef" Type="Folder">
 			<Item Name="states.ctl" Type="VI" URL="../states.ctl"/>
